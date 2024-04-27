@@ -39,7 +39,3 @@ In this example, we create a button and paragraph element using Klingo's `Button
 If you would like to contribute to Klingo, please feel free to submit issues or pull requests on our GitHub repository.
 
 Thank you for using Klingo! Happy coding! 🚀
-
-```
-
-```
